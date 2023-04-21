@@ -23,7 +23,7 @@ const Main = () => {
        rounded-3" style="background-color: #f5f6f7;">`;
       for (const key in data.Links) {
         link_content += `
-                <a class='fill-div' target='_blank'>${key}</a></hr>
+                <a class='fill-div' target='_blank' href=${data.Links[key]}>${key}</a></hr>
                `;
       }
       link_content += "</p>";

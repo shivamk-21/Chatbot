@@ -21,7 +21,7 @@
     }
   },
   "Location": {
-    "Data":"The location of our institute is Naya Raipur, Chhattisgarh, India. The map link is given below.",
+    "Data": "The location of our institute is Naya Raipur, Chhattisgarh, India. The map link is given below.",
     "Links": { "Map": "https://goo.gl/maps/BAf3Hj61KvuoxvEV8" }
   },
   "undergraduate_research": {
@@ -38,9 +38,10 @@
     "Data": "Health facilities in colleges offer a range of services, including medical care, mental health counseling, wellness programs, and health education resources. They are important for promoting the health and well-being of students, faculty, and staff, and can support academic success."
   },
   "move-out_procedures": {
-    "Data": ""
+    "Data": "Students have to get a Daily-Out Pass or Vaction Pass from CareTaker of respective Hostels before moving out. Students are allowed to allowed to enter College Main gate upto 8:30pm on Daily-Out Pass and upto 11:59 pm in Hostel Gates. No such restrictions exist on Vaction Passes"
   },
   "Admission": {
+    "Data": "College provides 3 Courses namely B.Tech, M.Tech and Ph.D. All Information about the courses can be found in the links below.",
     "Links": {
       "B.Tech.": "https://www.iiitnr.ac.in/content/b-tech-admission-2022",
       "M.Tech.": "https://www.iiitnr.ac.in/content/mtech-admission-2022",
@@ -57,33 +58,36 @@
     }
   },
   "Board": {
+    "Data": "Know More About Institute Board Members at the following link.",
     "Links": { "Board Memebers": "https://www.iiitnr.ac.in/content/board" }
   },
   "Vision and Mission": {
     "Data": "Vision-To be a leading technology institute that produces high quality IT professionals and fosters technological innovation for social upliftment. Mission-To create an Institute of Excellence in IT Education and Research for imparting knowledge through education, advancing knowledge through research, and providing service to the region, nation and mankind to contribute towards the creation of a better society."
   },
   "Institute Logo": {
-    "Data": "",
-    "Links": "https://www.iiitnr.ac.in/content/b-tech-admission-2022"
+    "Data": "Know More About Institute Logo at the following link.",
+    "Links": "https://www.iiitnr.ac.in/content/significance-and-usage-institute-logo"
   },
   "Directer": {
     "Data": "Dr. Pradeep Kumar Sinha is the founding Vice Chancellor & Director of International Institute of Information Technology (IIIT), Naya Raipur. Earlier he was with the Centre for Development of Advanced Computing (C-DAC), where he had led National Programs in areas of Supercomputing, Grid Computing, and Health Informatics. Prior to joining C-DAC, Dr. Sinha was in Japan for ten years, working on cutting edge computing technologies.",
     "Links": "https://www.iiitnr.ac.in/content/director"
   },
   "Deans": {
-    "Data": "Follow the Links to know",
+    "Data": "Follow the Links to know more about the Deans of the Institute.",
     "Links": {
       "Deans": "https://www.iiitnr.ac.in/node/3016",
       "Dean": "https://www.iiitnr.ac.in/node/3003"
     }
   },
   "Officers": {
+    "Data": "Know More about Officers of the Institute at the following links.",
     "Links": "https://www.iiitnr.ac.in/content/officers"
   },
   "Partners": {
     "Data": "Industry partner: NTPC, Governmental partner: C.G Government, Academic partner: IIIT-B "
   },
   "Commitees": {
+    "Data": "Institute Commitees can be found in the following links.",
     "Links": {
       "Finance Commitee": "https://www.iiitnr.ac.in/content/finance-committee",
       "Building Works": "https://www.iiitnr.ac.in/content/building-works-committee",
@@ -97,48 +101,51 @@
     "Data": "Helpline No:- 0771-2474040"
   },
   "Campus Tour": {
-    "Data": "9 to 6 with one hour lunch and class duration is 1 hour",
+    "Data": "Campus Tour Video can be found in the following link.",
     "Links": {
       "Youtube": "https://www.youtube.com/watch?v=8sOk_E1G6DU&list=PLyXiVDtrDuzxocuirw7QDzY7R0GITe7g8"
     }
   },
-  "B.tech currioculam": {
-    "Data": "",
+  "B.tech curriculam": {
+    "Data": "A Bachelor of Technology (B.Tech) program in college typically consists of a curriculum that is designed to provide students with a strong foundation in the field of engineering and technology. The curriculum generally includes a mix of theoretical and practical courses that are intended to prepare students for a career in the industry or for advanced studies in the field.Some of the core courses that are typically included in a B.Tech program include mathematics, physics, and computer science. In addition, students may take courses in areas such as engineering design, materials science, electronics, mechanical engineering, and software engineering.The B.Tech curriculum may also include practical training through laboratory work, internships, or projects. These hands-on experiences can provide students with an opportunity to apply the theoretical concepts that they have learned in the classroom to real-world situations.In addition to the core courses, students in a B.Tech program may have the opportunity to specialize in a particular area of engineering or technology. This may involve taking a series of elective courses in a specific field, or pursuing a concentration in a particular area such as software engineering, electrical engineering, or mechanical engineering.The curriculum of a B.Tech program can vary depending on the institution offering the program, the area of specialization, and the level of the program. However, most B.Tech programs are designed to provide students with a comprehensive education in the field of engineering and technology, and to prepare them for a successful career in the industry.",
     "Links": {
       "B.Tech Admission": "https://www.iiitnr.ac.in/content/b-tech-admission-2022"
     }
   },
   "M.tech Curriculam": {
-    "Data": "",
+    "Data": "A Master of Technology (M.Tech) program in college is typically designed to provide students with advanced knowledge and skills in a specific area of engineering or technology. The curriculum of an M.Tech program may vary depending on the institution offering the program, the area of specialization, and the level of the program.",
     "Links": {
       "M.Tech. Admission": "https://www.iiitnr.ac.in/content/mtech-admission-2022"
     }
   },
   "PHD": {
-    "Data": "",
+    "Data": "A Ph.D. program in college is an advanced degree program that is designed to prepare students for a career in academia or research. The Ph.D. program is the highest level of academic achievement that one can attain in a particular field of study.The curriculum of a Ph.D. program is highly focused on research, and students are expected to conduct original research in their chosen field of study. The program typically involves a combination of coursework, research, and teaching experience.",
     "Links": {
       "P.Hd. Admission": "https://www.iiitnr.ac.in/content/ms-research-phd-admission-spring-semester-2023"
     }
   },
   "Syllabus ": {
+    "Data": "Syllabus of the Institute can be found at the following link",
     "Links": { "Syllabus": "https://www.iiitnr.ac.in/content/syllabus" }
   },
   "Calender": {
+    "Data": "Calendar archive of the Institute can be found at the following link",
     "Links": {
       "Academic Calendar": "https://www.iiitnr.ac.in/content/academic-calendar-archive"
     }
   },
   " Convocation": {
-    "Data": "",
+    "Data": "Convocation is a formal ceremony held by colleges and universities to celebrate the graduation of their students. The ceremony usually takes place after students have completed their academic programs and have earned their degrees or diplomas.During the convocation, graduates are recognized and awarded their degrees in the presence of their families, friends, and faculty members. The ceremony is typically presided over by the college or university's president, and it often includes speeches from distinguished guests, alumni, or faculty members.In addition to awarding degrees, convocation ceremonies may also include other traditional elements, such as the wearing of academic regalia, the singing of hymns or songs, and the conferring of honorary degrees.Convocation is a significant milestone in a student's academic journey, and it provides an opportunity for students to reflect on their achievements and to celebrate their hard work and dedication.Know more at the following link",
     "Links": {
-      "Convocation": "https://www.iiitnr.ac.in/content/adjunct-faculty"
+      "Convocation": "https://www.iiitnr.ac.in/content/convocation-2023"
     }
   },
   "Faculty Profile": {
+    "Data": "You can Know about the faculty profile of IIITNR at following link",
     "Links": { "Profiles": "https://www.iiitnr.ac.in/faculty" }
   },
   "Adjunct Faculty": {
-    "Data": "",
+    "Data": "Adjunct faculty members are part-time instructors who are hired by colleges and universities to teach courses on a contract basis. These instructors may have other jobs or responsibilities outside of their teaching duties and are often hired to teach specific courses for a semester or academic year.Adjunct faculty members may have expertise in a particular field or subject area and are typically hired to supplement the college or university's full-time faculty. They may teach undergraduate or graduate courses and are responsible for preparing and delivering lectures, grading assignments and exams, and providing support and guidance to students.Adjunct faculty members may also be involved in other academic activities such as advising students, serving on committees, or conducting research. However, their involvement in these activities may vary depending on their contract and workload.While adjunct faculty members may have a flexible schedule and the opportunity to work in multiple institutions, they often do not receive the same benefits as full-time faculty members, such as health insurance, retirement benefits, or job security. As a result, some adjunct faculty members may face challenges with job stability and financial security.Despite these challenges, adjunct faculty members play an important role in the academic community and provide valuable support to colleges and universities in fulfilling their teaching and research missions.Know More About Adjunct Faculty at the link below",
     "Links": {
       "Adjunct Faculty": "https://www.iiitnr.ac.in/content/adjunct-faculty"
     }
