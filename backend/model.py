@@ -6,17 +6,21 @@ import numpy as np
 from nltk.stem import WordNetLemmatizer
 import pickle
 import json
+
 #NLTK Downloads
 nltk.download('punkt')
 nltk.download('wordnet')
+
 #Data Load of words and classes
 responses = json.loads(open('responses.json', encoding="utf8").read())
 with open('data.pkl', 'rb') as f:
     data = pickle.load(f)
 words,classes=data['words'],data['classes']
+
 #Model Load
 model=load_model('Model.h5')
-#Sentence Lemmatization and spell correction
+
+#Function for Sentence Lemmatization and spell correction
 def lemmatize(senetence):
     lemmatizer = WordNetLemmatizer()
     ignore = ['a', 'an', 'the', 'is', 'am', 'are', 'was', 'were', 'be', 'being', 'been', 'and', 'or', 'of', 'at', 'by', 'in', 'on', 'to', 'with', 'that', 'this', 'for', 'from', 'it', 'you', 'he', 'she', 'they', 'we', 'me', 'him', 'her', 'them', 'my', 'your', 'his', 'her', 'our', 'their', 'what', 'where', 'when', 'why', 'how', 'which', 'who', 'whom','next', '!', '?', '.', ',', ';', ':', '-', '_', '(', ')', '[', ']', '{', '}', "'", '"']
@@ -29,7 +33,8 @@ def lemmatize(senetence):
     except IndexError:
         pass
     return sentence_words
-#Transforming data in required format
+
+#Function for Transforming data in required format
 def bag_of_words(sentence):
     bag = [0] * len(words)
     for w in sentence:
@@ -37,7 +42,8 @@ def bag_of_words(sentence):
             if word == w.lower():
               bag[i] = 1
     return bag
-#Predicting the intent
+
+#Function for Predicting the intent
 def predict_intent(message):
     bag=bag_of_words(lemmatize(message))
     res=model.predict(np.array([bag]))[0]

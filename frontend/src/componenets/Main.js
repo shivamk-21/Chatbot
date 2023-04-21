@@ -2,31 +2,33 @@ import React, { useState } from "react";
 import "./Main.css";
 const Main = () => {
   const [message, setMessage] = useState("");
+  // Function to add answer to chat
   function add_answer(data) {
     let elm = document.getElementById("chat");
     let data_content = "";
     let link_content = "";
+    // Data Portion of Chat
     if (data.Data) {
       data_content += `<p
               class="small p-2 ms-3 mb-3 rounded-3"
               style="background-color: #f5f6f7;">
               ${data.Data}</p>`;
     }
+    // Link Portion of Chat
     if (data.Links) {
-      
-        link_content += `<p class="small p-2 ms-3 mb-3
+      link_content += `<p class="small p-2 ms-3 mb-3
         rounded-3" style="background-color: #f5f6f7;">
          Links for your Reference :
        </p><p class="links small p-2 ms-3 mb-3
        rounded-3" style="background-color: #f5f6f7;">`;
-       for (const key in data.Links) {
+      for (const key in data.Links) {
         link_content += `
                 <a class='fill-div' target='_blank'>${key}</a></hr>
                `;
-      
       }
       link_content += "</p>";
     }
+    //Finally adding the chat
     elm.innerHTML += `<div class="d-flex justify-content-between">
                     <p class="small mb-1">Guru</p>
                 </div>
@@ -42,12 +44,14 @@ const Main = () => {
                     </div>
                 </div>`;
   }
+  // Function to send message to backend and get response
   const Intent = async (g) => {
     g.preventDefault();
     if (!message) {
       alert("Enter Message");
     } else {
       let elm = document.getElementById("chat");
+      // Adding the user's message to chat
       elm.innerHTML += `
                   <div class="d-flex justify-content-between">
                       <p class="small mb-1 text-muted"></p>
@@ -66,6 +70,7 @@ const Main = () => {
                     />
                   </div>`;
       elm.scrollTop = elm.scrollHeight;
+      // Sending the message to backend
       await fetch("http://127.0.0.1:5000", {
         method: "POST",
         body: JSON.stringify({
@@ -77,16 +82,16 @@ const Main = () => {
       })
         .then((response) => response.json())
         .then((data) => {
+          // Action on response
           add_answer(data.msg[0]);
           setMessage("");
-          
         })
         .catch((err) => {
           console.log(err.message);
         });
     }
   };
-
+  // Returning the chat UI
   return (
     <section styles="background-color: #eee;">
       <div className="container py-5">

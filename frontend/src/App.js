@@ -4,6 +4,7 @@ import Popup from "reactjs-popup";
 import Background from "./background.png";
 import { useState } from "react";
 function App() {
+  // Blur Effect on Main Page
   const [isOpen, setIsOpen] = useState(false);
   const blur = () => {
     if (!isOpen) {
@@ -20,7 +21,7 @@ function App() {
       setIsOpen(false);
     }
   };
-
+  // Wrapper Return
   return (
     <>
       <div
