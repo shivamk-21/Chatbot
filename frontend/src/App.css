@@ -1,0 +1,25 @@
+html, body ,#app, #app>div{
+  margin:0;
+  height:100%;
+  width:100%
+}
+.main{
+  min-height: 96%;
+  min-width: 100%;
+  margin:0;
+}
+.image-size{
+  height:10%
+}
+.popup{
+  position: fixed;
+  bottom: 2%;
+  right: 1%; 
+  padding:0.5%;
+  border-top-left-radius: 1%;
+  border-top-right-radius: 1%;
+  box-shadow:  5px -5px 5px #336be6,-5px -5px 5px #7c55e7;
+  background-color:rgb(76, 108, 177);
+  color:white;
+  font-size:40%
+}

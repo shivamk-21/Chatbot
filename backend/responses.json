@@ -1,0 +1,262 @@
+{
+  "greetings": {
+    "Data": "Good morning to you!"
+  },
+  "sorry": {
+    "Data": "Sorry, Could you Please reframe your Question"
+  },
+
+  "goodbye": {
+    "Data": "Goodbye, have a nice day!"
+  },
+  "thanks": {
+    "Data": "It was my pleasure to assist you!"
+  },
+  "courses": {
+    "Data": "Our Institue offers B.Tech, M.Tech and Ph.D. programs in Computer Science and Engineering, Electronics and Communication Engineering and Data Science and Artificial Intelligence. All Information about the courses can be found in the links below.",
+    "Links": {
+      "B.Tech. Courses": "https://www.iiitnr.ac.in/content/btech-curriculum",
+      "M.Tech. Courses": "https://www.iiitnr.ac.in/content/mtech-0",
+      "P.Hd. Courses": "https://www.iiitnr.ac.in/content/phd"
+    }
+  },
+  "Location": {
+    "Data":"The location of our institute is Naya Raipur, Chhattisgarh, India. The map link is given below.",
+    "Links": { "Map": "https://goo.gl/maps/BAf3Hj61KvuoxvEV8" }
+  },
+  "undergraduate_research": {
+    "Data": "IEEE Student Branch is a student-led organization that operates under the umbrella of the Institute of Electrical and Electronics Engineers (IEEE). It aims to provide students with opportunities to develop their technical, leadership, and communication skills through various activities such as workshops, seminars, technical talks, hackathons, and projects.    IEEE Student Branches are established in universities and colleges around the world, and they serve as a platform for students to interact with professionals, exchange ideas, and learn about the latest developments in the field of electrical and electronics engineering. Benefits of joining an IEEE Student Branch include access to exclusive resources, networking opportunities, scholarship and award opportunities, and the chance to gain practical experience by working on projects and participating in competitions."
+  },
+  "orientation_programs": {
+    "Data": "Orientation programs are designed to help new students or employees become familiar with the policies, culture, and environment of an institution or organization. They include campus tours, information sessions, workshops, and social activities to introduce students to resources and connect them with others. For employees, orientation programs provide an overview of the organization's mission and policies, training on job responsibilities, and opportunities to meet colleagues. They help reduce anxiety and improve performance."
+  },
+  "community_outreach": {
+    "Data": "NSS aims for Education through Community Service and Community Service through Education. We aim to develop the capacity to meet emergencies and natural disasters and practice national integration and social harmony. Our objectives include fostering spirits of brotherhood and cooperation",
+    "Links": { "NSS Page": "https://nss.iiitnr.ac.in:1101/" }
+  },
+  "student_health": {
+    "Data": "Health facilities in colleges offer a range of services, including medical care, mental health counseling, wellness programs, and health education resources. They are important for promoting the health and well-being of students, faculty, and staff, and can support academic success."
+  },
+  "move-out_procedures": {
+    "Data": ""
+  },
+  "Admission": {
+    "Links": {
+      "B.Tech.": "https://www.iiitnr.ac.in/content/b-tech-admission-2022",
+      "M.Tech.": "https://www.iiitnr.ac.in/content/mtech-admission-2022",
+      "P.Hd.": "https://www.iiitnr.ac.in/content/ms-research-phd-admission-spring-semester-2023"
+    }
+  },
+  "About": {
+    "Data": "Dr. SPM IIIT-Naya Raipur, established by the International Institute of Information Technology University Act, 2013 of the Government of Chhattisgarh, is a joint venture by Chhattisgarh State Government and National Thermal Power Corporation (NTPC). The institute is committed to pursue excellence in higher education, research and development in Information Technology (IT) and associated disciplines. It firmly believes in bestowing knowledge dissemination and imparting entrepreneurial skills to the students to enable them to address real world problems. To empower this vision, IIIT-NR fosters state-of-the-art research and product development laboratories to carry out inter-disciplinary research and product development endeavours.",
+    "Links": "https://www.iiitnr.ac.in/content/about-iiit-nr"
+  },
+  "ACT and Statutes": {
+    "Links": {
+      "Statuses": "https://www.iiitnr.ac.in/content/act-statutes"
+    }
+  },
+  "Board": {
+    "Links": { "Board Memebers": "https://www.iiitnr.ac.in/content/board" }
+  },
+  "Vision and Mission": {
+    "Data": "Vision-To be a leading technology institute that produces high quality IT professionals and fosters technological innovation for social upliftment. Mission-To create an Institute of Excellence in IT Education and Research for imparting knowledge through education, advancing knowledge through research, and providing service to the region, nation and mankind to contribute towards the creation of a better society."
+  },
+  "Institute Logo": {
+    "Data": "",
+    "Links": "https://www.iiitnr.ac.in/content/b-tech-admission-2022"
+  },
+  "Directer": {
+    "Data": "Dr. Pradeep Kumar Sinha is the founding Vice Chancellor & Director of International Institute of Information Technology (IIIT), Naya Raipur. Earlier he was with the Centre for Development of Advanced Computing (C-DAC), where he had led National Programs in areas of Supercomputing, Grid Computing, and Health Informatics. Prior to joining C-DAC, Dr. Sinha was in Japan for ten years, working on cutting edge computing technologies.",
+    "Links": "https://www.iiitnr.ac.in/content/director"
+  },
+  "Deans": {
+    "Data": "Follow the Links to know",
+    "Links": {
+      "Deans": "https://www.iiitnr.ac.in/node/3016",
+      "Dean": "https://www.iiitnr.ac.in/node/3003"
+    }
+  },
+  "Officers": {
+    "Links": "https://www.iiitnr.ac.in/content/officers"
+  },
+  "Partners": {
+    "Data": "Industry partner: NTPC, Governmental partner: C.G Government, Academic partner: IIIT-B "
+  },
+  "Commitees": {
+    "Links": {
+      "Finance Commitee": "https://www.iiitnr.ac.in/content/finance-committee",
+      "Building Works": "https://www.iiitnr.ac.in/content/building-works-committee",
+      "Senate": "https://www.iiitnr.ac.in/content/senate",
+      "Board Recruitment": "https://www.iiitnr.ac.in/content/board-recruitment",
+      "Baord Studies": "https://www.iiitnr.ac.in/content/board-studies",
+      "Grievance Adressal": "https://www.iiitnr.ac.in/content/student-grievance-redressal-committee-sgrc"
+    }
+  },
+  "Contacts": {
+    "Data": "Helpline No:- 0771-2474040"
+  },
+  "Campus Tour": {
+    "Data": "9 to 6 with one hour lunch and class duration is 1 hour",
+    "Links": {
+      "Youtube": "https://www.youtube.com/watch?v=8sOk_E1G6DU&list=PLyXiVDtrDuzxocuirw7QDzY7R0GITe7g8"
+    }
+  },
+  "B.tech currioculam": {
+    "Data": "",
+    "Links": {
+      "B.Tech Admission": "https://www.iiitnr.ac.in/content/b-tech-admission-2022"
+    }
+  },
+  "M.tech Curriculam": {
+    "Data": "",
+    "Links": {
+      "M.Tech. Admission": "https://www.iiitnr.ac.in/content/mtech-admission-2022"
+    }
+  },
+  "PHD": {
+    "Data": "",
+    "Links": {
+      "P.Hd. Admission": "https://www.iiitnr.ac.in/content/ms-research-phd-admission-spring-semester-2023"
+    }
+  },
+  "Syllabus ": {
+    "Links": { "Syllabus": "https://www.iiitnr.ac.in/content/syllabus" }
+  },
+  "Calender": {
+    "Links": {
+      "Academic Calendar": "https://www.iiitnr.ac.in/content/academic-calendar-archive"
+    }
+  },
+  " Convocation": {
+    "Data": "",
+    "Links": {
+      "Convocation": "https://www.iiitnr.ac.in/content/adjunct-faculty"
+    }
+  },
+  "Faculty Profile": {
+    "Links": { "Profiles": "https://www.iiitnr.ac.in/faculty" }
+  },
+  "Adjunct Faculty": {
+    "Data": "",
+    "Links": {
+      "Adjunct Faculty": "https://www.iiitnr.ac.in/content/adjunct-faculty"
+    }
+  },
+  "Publications": {
+    "Data": "Out students and faculty are very active in research and publication. All the publications can be found out at the link below",
+    "Links": {
+      "Publications List": "https://www.iiitnr.ac.in/content/research-publications"
+    }
+  },
+  "Patents": {
+    "Data": "Many Patents are holded by the students and faculty of the institute. All the patents can be found out at the link below",
+    "Links": { "Patents List": "https://www.iiitnr.ac.in/content/patents" }
+  },
+  "Labs": {
+    "Data": "The institute has stae of the art and mordern labs for the students to learn and explore. All labs and releated info can be found out at the link below",
+    "Links": {
+      "Labs in the Institute": "https://www.iiitnr.ac.in/content/lab-details/"
+    }
+  },
+  "SAC": {
+    "Data": "SAC is a student body established in the year 2018 that aims to support, develop and promote student activities at IIIT Naya Raipur. We aim to enhance undergraduates' aesthetic, invasive, artistic, intellectual, and social development.",
+    "Links": { "SAC Official Page": "https://sac.iiitnr.ac.in/" }
+  },
+  "E-cell": {
+    "Data": "E-Cell IIIT NAYA RAIPUR Is A Non-Profit Student Run Organization Where We Crave And Explore The Constantly Evolving World Of Entrepreneurship And Start-Up Cult. In Our Quest To Promote The Spirit Of Entrepreneurship Among The Community, We Try To Answer Essential Questions Like “How This Realm Of Entrepreneurship Affects Us In Our Day-To-Day Lives?” And The Likes Of “Can I Construct My Start-Up Idea Into A Functional Business Model?” To Spread This Very Essence, We Host Various Seminars/Webinars, Lectures, Podcasts And Book Summaries, Innovative Games, Brainstorming Sessions, Competitions. Besides That, We Host The Most Prominent Annual Entrepreneurial Summit Of Central India, Which Includes Numerous Informative Events About Entrepreneurship.",
+    "Links": { "E-Cell Official Page": "https://ecell.iiitnr.ac.in/" }
+  },
+  "Facilities": {
+    "Data": "All Information regarding facilities can be found in the following link:",
+    "Links": {
+      "Facilities Available": "https://www.iiitnr.ac.in/content/facilities"
+    }
+  },
+  "Library": {
+    "Data": "Institute library is part of the administrative building spanned over 2 floors acquiring plinth area of approximately 800 sq. meters with central air-conditioning system and open wi-fi. Its primary aim is to:Support the institute's mission “To Create an Institute of Excellence in IT Education and Research for Meeting the Emerging and Challenging Needs of the Society.” Further Info can be found in the following link:",
+    "Links": {
+      "Library At A Glance": "https://www.iiitnr.ac.in/content/library-glance"
+    }
+  },
+  "Student Acheivements": {
+    "Data": "Archive Links to Achievements of each batch can be found in the following links",
+    "Links": {
+      "Batch 2016": "https://www.iiitnr.ac.in/content/news-gallery-2016",
+      "Batch 2017": "https://www.iiitnr.ac.in/content/students-news",
+      "Batch 2018": "https://www.iiitnr.ac.in/content/archive-2018",
+      "Batch 2019": "https://www.iiitnr.ac.in/content/archive-2019"
+    }
+  },
+  "Anti raagging comiitee": {
+    "Data": "There is strict restriction of ragging in our campus and proper guidelines are followed to prevent ragging. Further information can be found in the following links:",
+    "Links": {
+      "Anti-Ragging Commitee": "https://www.iiitnr.ac.in/content/anti-ragging-committee"
+    }
+  },
+  "Placement": {
+    "Data": "Detailes Info about placement and related fields can be found in the following links",
+    "Links": {
+      "Placement Highlights": "https://www.iiitnr.ac.in/content/placement-highlights-0",
+      "Placement Statistics": "https://www.iiitnr.ac.in/content/placement-statistics-0",
+      "Roles Offered": "https://www.iiitnr.ac.in/content/roles-offered-1",
+      "Companies Visited": "https://www.iiitnr.ac.in/content/companies-visited-1",
+      "Remuneration Offered": "https://www.iiitnr.ac.in/content/remuneration-offered-0",
+      "Placement Report": "https://www.iiitnr.ac.in/newspace/pdf/Placement_Report_20222.pdf",
+      "Industry Academia Meet": "https://www.iiitnr.ac.in/content/industry-academia-collaboration-cum-advisory-committee",
+      "Training and Placement Cell": "https://www.iiitnr.ac.in/content/training-and-placement",
+      "Placement News": "https://www.iiitnr.ac.in/content/placement-news-0"
+    }
+  },
+  "MOU": {
+    "Data": "Detailed list of MOUs signed by our college can be found at the following link.",
+    "Links": {
+      "List of MOUs signed": "https://www.iiitnr.ac.in/newspace/pdf/MoU_TSCOE.pdf`"
+    }
+  },
+  "Gallery": {
+    "Data": "Please refer to the following link for a detailed photo gallery of our college",
+    "Links": { "Photo Gallery": "https://www.iiitnr.ac.in/photo-gallery" }
+  },
+  "Guest House": {
+    "Data": "Our College hosts an Guest House that can be availed by students and faculty members. More information can be found at the following link.",
+    "Links": {
+      "Guest House Info": "https://www.iiitnr.ac.in/content/guest-house-accommodation"
+    }
+  },
+  "ARIIA Ranking": {
+    "Data": "If you would like more information about our college's ranking in the ARIIA rankings, please visit the following link. There, you will find a detailed overview of our ranking  and related information",
+    "Links": {
+      "ARIIA-Rankings": "https://www.iiitnr.ac.in/content/ariia-ranking"
+    }
+  },
+  "Why Join IIIT-NR": {
+    "Data": "IIT-NR academics has several innovative features, which differentiates it from other similar institutes and helps students acquire skills necessary for their profession. More Info can be found at the following link.",
+    "Links": {
+      "Why Join IIIT-NR": "https://www.iiitnr.ac.in/content/why-one-should-join-iiit-nr"
+    }
+  },
+  "B. Tech": {
+    "Data": "B.Tech is an undergraduate degree program that provides a strong foundation in engineering or technology.To learn more about the B. Tech curriculum, please visit the following link.",
+    "Links": {
+      "B.Tech. Curriculam": "https://www.iiitnr.ac.in/content/btech-curriculum"
+    }
+  },
+  "M. Tech": {
+    "Data": "To learn more about the M. Tech curriculum, including course requirements and research opportunities, please visit the following link. There, you will find a detailed overview of the program as well as contact information for our faculty and staff.",
+    "Links": {
+      "M.Tech. Curriculam": "https://www.iiitnr.ac.in/content/mtech-0"
+    }
+  },
+  "Ph.D.": {
+    "Data": "To learn more about the Ph.D. curriculum, including course requirements and research opportunities, please visit the following link. There, you will find a detailed overview of the program as well as contact information for our faculty and staff.",
+    "Links": { "Ph.d. Currciculam": "https://www.iiitnr.ac.in/content/phd" }
+  },
+  "FAQs": {
+    "Data": "To find answers to frequently asked questions, please visit the following link:",
+    "Links": { "FAQs": "https://www.iiitnr.ac.in/content/faqs-0" }
+  },
+  "strength": {
+    "Data": "We offer Computer Science and Engineering (CSE), Electronics and Communication Engineering (ECE), and Data Science and Artificial Intelligence (DSAi) programs in B.Tech, each with a student capacity of 60."
+  }
+}
