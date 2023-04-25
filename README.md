@@ -21,9 +21,11 @@ Data Preprocessing
 > Removing Punctuation and Stop Words
 > Lemmatization
 > Storing the pre processed data in a dataframe
+
 Feature Engineering
 > Performing Vectorization on the dataframe
 > Splitting dataset into train and test data.
+
 Model Training and Testing
 > Applying different types of machine learning model and recording their performance.
 Saving the model. 
