@@ -18,6 +18,10 @@
       "B.Tech. Courses": "https://www.iiitnr.ac.in/content/btech-curriculum",
       "M.Tech. Courses": "https://www.iiitnr.ac.in/content/mtech-0",
       "P.Hd. Courses": "https://www.iiitnr.ac.in/content/phd"
+    },
+    "FollowUp":{
+      "Calender":"Academic Calendar",
+      "Admission":"Admissions"
     }
   },
   "Location": {

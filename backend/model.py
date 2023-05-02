@@ -56,3 +56,6 @@ def predict_intent(message):
     if len(res_list)==0:
       res_list.append("sorry")
     return {"msg":[responses[r] for r in res_list[:3]]}
+#Fucntion to return Follow Ups's Output
+def get_follow_up(intent):
+    return {"msg":responses[intent]}
